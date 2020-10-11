@@ -16,6 +16,8 @@ e clique em Organizar e o programa moverá eles para as suas devidas pastas.
 png, jpg e jpeg
 #### Vídeos
 mp4, flv e wmv
+#### Músicas
+mp3, opus e ogg
 #### Apresentações
 pptx
 #### Documentos
